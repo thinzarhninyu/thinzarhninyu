@@ -126,8 +126,6 @@
 
 ### :bar_chart: GitHub stats
 
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
-
 [![Thinzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzarhninyu&count_private=true&show_icons=true&theme=dark)](https://github.com/thinzarhninyu/github-readme-stats)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thinzarhninyu&layout=compact&show_icons=true&theme=dark)
@@ -143,7 +141,7 @@
 
 <div align="center">
 
-#### Credits:[thinzarhninyu](https://github.com/thinzarhninyu)
+#### Credits: [thinzarhninyu](https://github.com/thinzarhninyu)
 Last Edited: 28/08/2023
 
 </div>
