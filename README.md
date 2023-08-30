@@ -1,8 +1,4 @@
 <div align="center">
-  
-<!-- <div id="header">
-<img src="profile.jpg" width="100"/>
-</div> -->
 
 # Hi, I'm Thinzar! 👋🎉
 
@@ -112,17 +108,13 @@
 
 ### :bar_chart: GitHub stats
 
-<div style="display: flex; justify-content: space-between;">
-    
-  [![Thinzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzarhninyu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/thinzarhninyu/github-readme-stats)
+![Thinzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzarhninyu&count_private=true&show_icons=true&theme=tokyonight&card_width=500)]
 
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thinzarhninyu&layout=compact&show_icons=true&theme=tokyonight&card_width=500)    
 
-  ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thinzarhninyu&layout=donut&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thinzarhninyu&theme=tokyonight)](https://git.io/streak-stats)
 
-</div>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thinzarhninyu&theme=dracula&margin-w=15&margin-h=15&rank=-?&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thinzarhninyu&theme=dracula&margin-w=15&margin-h=15&rank=-?&column=4)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
 
