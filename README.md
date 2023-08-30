@@ -58,8 +58,6 @@
     ![Java](https://img.shields.io/badge/JAVA%20-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
-    
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,44 +69,32 @@
    ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB)
 
-<br>
-
 - **Back-End Development**:
   
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-<br>
-
 - **Mobile Development**:
 
   ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<br> 
 
 - **Database Management**
     
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br>
-
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Neltify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
     ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-    
-<br>
-
+  
 - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
 
 - **Extras**:
 
@@ -126,10 +112,17 @@
 
 ### :bar_chart: GitHub stats
 
-[![Thinzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzarhninyu&count_private=true&show_icons=true&theme=dark)](https://github.com/thinzarhninyu/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+    
+  [![Thinzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzarhninyu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/thinzarhninyu/github-readme-stats)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thinzarhninyu&layout=compact&show_icons=true&theme=dark)
 
+  ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thinzarhninyu&layout=donut&show_icons=true&theme=dark)
+
+</div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thinzarhninyu&theme=dracula&margin-w=15&margin-h=15&rank=-?&column=3)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
 
