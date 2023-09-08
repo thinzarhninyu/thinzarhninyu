@@ -108,7 +108,7 @@
 
 ### :bar_chart: GitHub stats
 
-![Thinzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzarhninyu&count_private=true&show_icons=true&theme=tokyonight&card_width=500)]
+![Thinzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzarhninyu&count_private=true&show_icons=true&theme=tokyonight&card_width=500)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thinzarhninyu&layout=compact&show_icons=true&theme=tokyonight&card_width=500)    
 
