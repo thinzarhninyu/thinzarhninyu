@@ -84,18 +84,14 @@
 
 <br>
 
-## 💻 Projects
-
-<br>
-
 ## 📊 My Stats
 
 <div align="center">
 
 ![Thinzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzarhninyu&count_private=true&show_icons=true&theme=radical&show=prs_merged_percentage&card_width=500&line_height=20&hide_border=true&hide_title=true)
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thinzarhninyu&layout=compact&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=500&line_height=20&hide_border=true&hide_title=false)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thinzarhninyu&theme=radical&card_width=500&line_height=20&hide_border=true&hide_title=true)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=thinzarhninyu&theme=radical&margin-w=15&margin-h=15&rank=-C,??&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thinzarhninyu&theme=radical&card_width=500&line_height=20&hide_border=true&hide_title=true)](https://git.io/streak-stats)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=thinzarhninyu&layout=compact&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=500&line_height=20&hide_border=true&hide_title=false)
 
 </div>
 
