@@ -9,7 +9,7 @@
 
 <div id="badges">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinzar-hnin-yu/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinzarhninyu/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/micxehye/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/thinzarhninyu/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/micxehye)
